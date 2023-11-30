@@ -1,0 +1,37 @@
+.nav {
+    list-style: none;
+    padding-left: 0%;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+.nav>li{
+    border-style: dashed;
+    border-radius: 10px;
+    display: inline-block;
+    background-color: lightskyblues;
+}
+.nav>li{
+    border: outset;
+    display: inline-block;
+}
+.nav>li>a{
+    text-decoration: none;
+    color: rgb(78, 114, 178);
+}
+.nav>li>a:hover{
+    background-color: lightcyan;
+}
+
+.titles {
+    text-align: center;
+    margin: auto;
+    color: grey;
+}
+
+.sections {
+    text-align: center;
+    margin: auto;
+    color: paleturquoise;
+    text-decoration: underline;
+}
